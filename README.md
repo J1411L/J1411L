@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJodzFkbzdieWEwcjY0NmN6eWZ2djJuc2VraG9mcTN2ZHZldWs4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EqKDXv0cPa6TLqfEON/giphy.gif" width="100"/>
+  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJodzFkbzdieWEwcjY0NmN6eWZ2djJuc2VraG9mcTN2ZHZldWs4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EqKDXv0cPa6TLqfEON/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXd5ZXZxcG93Z2dud2I2YjMwbnBiN3AxejgwdHZ2dWd6dnRqZndmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pK55Q7cY1Mg1i255Vf/giphy.gif)" width="100"/>
 </div>
 
 ## HI! 👋
