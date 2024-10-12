@@ -12,8 +12,9 @@ __I’m currently harly learning:__
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp;  Python<br />
   - Algorithms and data structures
 </div>
-
-
+ <br /> 
+  <br /> 
+   <br /> 
 __Have already get knowledge in:__
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="20" height="20"/>&nbsp;
