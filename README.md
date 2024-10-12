@@ -14,7 +14,7 @@ __I’m currently harly learning:__
 </div>
  <br /> 
   <br /> 
-   <br /> 
+
 __Have already get knowledge in:__
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="20" height="20"/>&nbsp;
