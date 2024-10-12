@@ -20,7 +20,8 @@ __Have already get knowledge in:__
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="20" height="20"/>&nbsp; <br /> 
   - During my first year at my university, I studied the C++ language and its QT framework. My proficiency in this is slightly below average.<br /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="20" height="20"/>&nbsp;  SQLite<br />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="20" height="20"/>&nbsp; <br />
+  - 
 </div>
 
 
