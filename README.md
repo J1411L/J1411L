@@ -1,4 +1,7 @@
-## Hi there 👋
+HI!
+My name is Julia.
+
+At the moment I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science, majoring in Applied Mathematics.
 
 <!--
 **J1411L/J1411L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
