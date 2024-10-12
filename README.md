@@ -1,5 +1,5 @@
-HI!
-My name is Julia.
+## HI!
+##I'm Julia. 😄
 
 At the moment I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science, majoring in Applied Mathematics.
 
