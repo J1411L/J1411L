@@ -1,8 +1,13 @@
 ## HI! 👋
 I'm Julia. 
-At the moment __ I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science __, majoring in Applied Mathematics.
+At the moment __I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science__, majoring in __Applied Mathematics__.
 
-
+I’m currently learning:
+- __SQL__
+- __Python__
+- Algorithms and data structures
+- Operating systems (Windows)
+- Industrial programming
 
 <!--
 - 🔭 I’m currently working on ...
