@@ -6,18 +6,18 @@
 I'm Julia. 
 At the moment __I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science__, majoring in __Applied Mathematics__.
 
-I’m currently harly learning:
+## I’m currently harly learning:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="20" height="20"/>&nbsp;  SQL<br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp;  Python<br />
   - Algorithms and data structures
 </div>
 
-And have already get knowledge in:
+## Have already get knowledge in:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="20" height="20"/>&nbsp; <br /> 
-  - During my first year at my university, I studied the C++ language and its QT framework. My proficiency in this is slightly below average.<br /> 
+  During my first year at my university, I studied the C++ language and its QT framework. My proficiency in this is slightly below average.<br /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="20" height="20"/>&nbsp;  SQLite<br />
 </div>
 
