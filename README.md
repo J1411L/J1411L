@@ -1,13 +1,10 @@
-## HI!
-## I'm Julia. 😄
+## HI! 👋
+I'm Julia. 
+At the moment __ I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science __, majoring in Applied Mathematics.
 
-At the moment I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science, majoring in Applied Mathematics.
+
 
 <!--
-**J1411L/J1411L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
