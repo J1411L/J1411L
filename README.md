@@ -8,12 +8,9 @@ At the moment __I am studying at the Belarusian State University at the Faculty 
 
 🌱 I’m currently learning:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="30" height="30"/>&nbsp;
-
-- SQL
-- Python
-- Algorithms and data structures
+  - Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+  - SQL <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="30" height="30"/>&nbsp;
+  - Algorithms and data structures
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
