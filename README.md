@@ -6,7 +6,7 @@
 I'm Julia. 
 At the moment __I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science__, majoring in __Applied Mathematics__.
 
-# I’m currently harly learning:
+__# I’m currently harly learning:__
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="20" height="20"/>&nbsp;  SQL<br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp;  Python<br />
@@ -14,7 +14,7 @@ At the moment __I am studying at the Belarusian State University at the Faculty 
 </div>
 
 
-# Have already get knowledge in:
+__# Have already get knowledge in:__
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="20" height="20"/>&nbsp; <br /> 
