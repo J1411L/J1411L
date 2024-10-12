@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJodzFkbzdieWEwcjY0NmN6eWZ2djJuc2VraG9mcTN2ZHZldWs4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EqKDXv0cPa6TLqfEON/giphy.gif" width="100"/>
 </div>
+
 ## HI! 👋
 I'm Julia. 
 At the moment __I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science__, majoring in __Applied Mathematics__.
