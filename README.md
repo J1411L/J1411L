@@ -13,9 +13,6 @@ At the moment __I am studying at the Belarusian State University at the Faculty 
 
 📫 How to reach me: 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-<div id="badges">
   <a href="www.linkedin.com/in/julialuskina">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
