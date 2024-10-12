@@ -8,18 +8,17 @@ At the moment __I am studying at the Belarusian State University at the Faculty 
 
 I’m currently harly learning:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="30" height="30"/>&nbsp;  SQL<br />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;  Python<br />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="20" height="20"/>&nbsp;  SQL<br />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp;  Python<br />
   - Algorithms and data structures
 </div>
 
 And have already get knowledge in:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="30" height="30"/>&nbsp;  C++<br />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="30" height="30"/>&nbsp;  QT<br />  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="30" height="30"/>&nbsp;  SQLite<br />
-  
-</div>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="20" height="20"/>&nbsp;  C++<br />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="20" height="20"/>&nbsp;  QT<br />  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="20" height="20"/>&nbsp;  SQLite<br />
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
