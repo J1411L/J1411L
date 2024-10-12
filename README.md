@@ -7,10 +7,9 @@ I'm Julia.
 At the moment __I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science__, majoring in __Applied Mathematics__.
 
 🌱 I’m currently learning:
-
-https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="30" height="30"/>&nbsp;
 
 - SQL
 - Python
