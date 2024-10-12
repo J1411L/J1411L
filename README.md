@@ -1,13 +1,17 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ## HI! 👋
 I'm Julia. 
 At the moment __I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science__, majoring in __Applied Mathematics__.
 
-I’m currently learning:
-- __SQL__
-- __Python__
+🌱 I’m currently learning:
+- SQL
+- Python
 - Algorithms and data structures
-- Operating systems (Windows)
-- Industrial programming
+
+📫 How to reach me: 
+
 
 <!--
 - 🔭 I’m currently working on ...
