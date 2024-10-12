@@ -7,16 +7,21 @@ I'm Julia.
 At the moment __I am studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science__, majoring in __Applied Mathematics__.
 
 🌱 I’m currently learning:
+
+https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
 - SQL
 - Python
 - Algorithms and data structures
+</div>
+
+### :hammer_and_wrench: Languages and Tools :
+
+
 
 📫 How to reach me: 
-<div id="badges">
-  <a href="www.linkedin.com/in/julialuskina">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 <!--
 - 🔭 I’m currently working on ...
