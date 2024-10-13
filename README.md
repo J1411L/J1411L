@@ -16,7 +16,7 @@ __I’m currently harly learning:__
  <br /> 
   <br />
   
-__Have already get get acquainted with:__
+__Have already get acquainted with:__
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="30" height="30"/>&nbsp; 
