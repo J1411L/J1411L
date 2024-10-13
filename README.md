@@ -10,12 +10,11 @@ __I’m currently harly learning:__
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="20" height="20"/>&nbsp;  SQL<br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp;  Python<br />
-  ☆ Algorithms and data structures
-  ☆ Machine Learning Algorithms
+  ☆ Algorithms and data structures <br />
+  ☆ Machine Learning Algorithms <br />
 </div>
  <br /> 
-  <br /> 
-
+  <br />
 __Have already get get acquainted with:__
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="30" height="30"/>&nbsp;
