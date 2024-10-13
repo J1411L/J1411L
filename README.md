@@ -29,12 +29,10 @@ __Have already get get acquainted with:__
     <br />
     ☆ I have a good background in: <br />
   <li>
-    <ul>
       <li>linear algebra <br /></li>
       <li>mathematical analysis <br /></li>
       <li>differential equations <br /></li>
       <li>discrete mathematics and mathematical logic <br /></li>
-    </ul>
   </li>
 
   
