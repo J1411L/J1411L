@@ -26,11 +26,12 @@ __Have already get get acquainted with:__
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
   <br />
   ☆ I've become familiar with C++(QT), Ubuntu(VirtualBox),Java and SQLite, but I don't consider myself a full-fledged developer. This knowledge gave me a basic understanding of programming and working with databases.
-  ☆ I have a good background in: 
-      • linear algebra
-      • mathematical analysis
-      •differential equations
-      • discrete mathematics and mathematical logic.
+  <br />
+  ☆ I have a good background in: <br />
+      • linear algebra <br />
+      • mathematical analysis <br />
+      •differential equations <br />
+      • discrete mathematics and mathematical logic. <br />
 </div>
 
 
