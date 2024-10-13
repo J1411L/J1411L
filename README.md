@@ -20,7 +20,7 @@ __Have already get knowledge in:__
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="20" height="20"/>&nbsp; 
   <br /> 
-  - During my first year at my university, I studied the C++ language and its QT framework. My proficiency in this is slightly below average.
+  For one year I studied the C++ language and it's QT framework. My proficiency in this is slightly below average.
   <br /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="20" height="20"/>&nbsp; 
   <br />
@@ -29,7 +29,7 @@ __Have already get knowledge in:__
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="20" height="20"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp; 
   <br />
-  I had experience using the Ubuntu distribution, I worked in the terminal.
+  I had experience using the Ubuntu distribution on VirtualBox, I worked in the terminal.
   <br />
 </div>
 
