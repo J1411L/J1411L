@@ -18,10 +18,6 @@ __I’m currently harly learning:__
 
 __Have already get get acquainted with:__
 <div>
-
-
-
-<ul>
 <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="30" height="30"/>&nbsp; 
@@ -40,7 +36,6 @@ __Have already get get acquainted with:__
       <li>discrete mathematics and mathematical logic <br /></li>
     </ul>
   </li>
-</ul>
 
   
 </div>
