@@ -28,8 +28,7 @@ __Have already get get acquainted with:__
     ☆ I've become familiar with C++(QT), Ubuntu(VirtualBox),Java and SQLite, but I don't consider myself a full-fledged developer. This knowledge gave me a basic understanding of programming and working with databases.
     <br />
     ☆ I have a good background in: <br />
-  <li>
-      <ul>
+  <li>      <ul>
       <li>linear algebra <br /></li>
       <li>mathematical analysis <br /></li>
       <li>differential equations <br /></li>
