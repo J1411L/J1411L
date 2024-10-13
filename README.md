@@ -22,7 +22,7 @@ __Have already get get acquainted with:__
 
 
 <ul>
-
+<li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="30" height="30"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp; 
@@ -39,6 +39,7 @@ __Have already get get acquainted with:__
       <li>differential equations <br /></li>
       <li>discrete mathematics and mathematical logic <br /></li>
     </ul>
+  </li>
 </ul>
 
   
