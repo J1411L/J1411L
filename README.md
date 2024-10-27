@@ -8,8 +8,8 @@ At the moment __I am studying at the Belarusian State University at the Faculty 
 
 __I’m currently harly learning:__
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="20" height="20"/>&nbsp;  SQL<br />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp;  Python<br />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="30" height="30"/>&nbsp;  SQL<br />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;  Python<br />
   ☆ Algorithms and data structures <br />
   ☆ Machine Learning Algorithms <br />
 </div>
