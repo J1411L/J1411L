@@ -33,9 +33,10 @@ __Have already get acquainted with:__
       <li>differential equations <br /></li>
       <li>discrete mathematics and mathematical logic <br /></li>
       </ul>
-
-  
 </div>
+
+Linkedin: julialuskina (https://linkedin.com/in/julialuskina)
+LeetCode: J1411L
 
 
 
