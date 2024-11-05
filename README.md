@@ -35,7 +35,7 @@ __Have already get acquainted with:__
       </ul>
 </div>
 
-Linkedin: julialuskina (https://linkedin.com/in/julialuskina)
+Linkedin: julialuskina (https://linkedin.com/in/julialuskina) <br />
 LeetCode: J1411L
 
 
