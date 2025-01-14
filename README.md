@@ -37,7 +37,7 @@ __Have already get acquainted with:__
 
 Linkedin: julialuskina (https://linkedin.com/in/julialuskina) <br />
 LeetCode: J1411L
-
+Telegram: @J1411L
 
 
 
